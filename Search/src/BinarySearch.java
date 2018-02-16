@@ -26,7 +26,7 @@ public class BinarySearch {
             if (arrayList.get(middle) == key){
                 return middle;
             }
-            
+
             // If key is smaller than item at the middle then the key must be in the left subarrl
             if (arrayList.get(middle) > key){
                 return binarySearchRecursive(arrayList, first, middle-1, key);
