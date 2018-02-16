@@ -10,3 +10,8 @@ Algorithms implemented in Java but will be adding other languages as I learn
 
 * Bubble sort
 * Quick sort
+
+## Searching algorithms
+
+* Binary search (recursively and iteratively)
+* Linear search
