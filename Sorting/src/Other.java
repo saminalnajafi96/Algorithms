@@ -36,10 +36,4 @@ public class Other
                   System.out.print(arrl.get(i) + " ");
                }
          }
-      
-      public static ArrayList<Integer> CopyArray(ArrayList<Integer> a)
-         {
-            ArrayList<Integer> resa = (ArrayList<Integer>) a.clone();
-            return(resa); // return the array
-         }
    }
